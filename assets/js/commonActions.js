@@ -12,8 +12,8 @@ $(document).ready(function (){
          *  @param  string main :- Hold main section container ID 
          *  @param  string nav :- Hold Side nav container ID 
          */
-        let main = ("#mainSectionContainer");
-        let nav = ("#sideNavContainer");
+        let main = $("#mainSectionContainer");
+        let nav = $("#sideNavContainer");
 
         // Toggle main section container Status
         if(main.hasClass("leftPadding")){

@@ -23,7 +23,7 @@
             </div>
 
             <!-- Start mainSectionContainer -->
-            <div id="mainSectionContainer">
+            <div id="mainSectionContainer" class="leftPadding">
 
                 <!-- Start mainContentContainer -->
                 <div id="mainContentContainer">
